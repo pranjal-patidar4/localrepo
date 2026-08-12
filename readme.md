@@ -1,1 +1,1 @@
-# this is my localrepo
+# This is an Amazon website clone created using HTML and CSS as a frontend development practice project.
